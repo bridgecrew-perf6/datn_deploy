@@ -55,7 +55,7 @@
 				</div>
 				<div class="form-group">
 					<label>Ngày đặt hàng:</label>
-					<form:input path="orderDate" class="form-control" />
+					<form:input path="orderDate" class="form-control" readonly="true"/>
 				</div>
 				<div class="form-group">
 					<label>Số điện thoại:</label>
